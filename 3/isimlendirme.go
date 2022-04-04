@@ -1,0 +1,6 @@
+package isimlendirme
+
+func main() {
+
+}
+
